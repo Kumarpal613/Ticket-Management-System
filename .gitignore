@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+venv/
+.pytest_cache/
+*.db
+node_modules/
+dist/
+.env*
+!.env.example
+*.pem
+*.key
+credentials.json
